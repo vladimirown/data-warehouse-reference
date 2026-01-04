@@ -1,1 +1,1 @@
-# data-warehouse-reference
+# Data Warehouse reference project.
